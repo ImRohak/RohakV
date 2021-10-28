@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rohak</h1>
-<h3 align="center">A developer from the UK!</h3>
+### Hi there 👋, my name is Rohak
+#### I am a developer from the UK
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/visualsbyspyde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="visualsbyspyde" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16251511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16251511" height="30" width="40" /></a>
-<a href="https://www.behance.net/spydevisuals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="spydevisuals" height="30" width="40" /></a>
-</p>
+Skills: HTML / JS / CSS / PYTHON 
 
-<br>
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently working on my Discord bot! 
+- 🌱 I’m currently learning React.js 
+- 📫 How to reach me: rohak.v@gmail.com 
+- ⚡ Fun fact: I like badminton and guitar! 
 
 
-<br>
-<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohakv)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohakv&layout=compact&theme=dark&show_icons=true" alt="rohakv" /></p>
+[![Top Langs](https://camo.githubusercontent.com/8aa0ece941481d9f3f125afc9ae92e4cd6a660af16466494b48d2da9318c5307/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f68616b76266c61796f75743d636f6d70616374267468656d653d6461726b2673686f775f69636f6e733d74727565)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohakv&show_icons=true&theme=dark)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohakv&show_icons=true&theme=dark" alt="rohakv" /></p>
