@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my Discord bot! 
 - 🌱 I’m currently learning React Native 
-- 📫 How to reach me: rohak.v@gmail.com 
+- 📫 How to reach me: rohakdev@protonmail.com
 - ⚡ Fun fact: I like badminton and guitar! 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImRohak&show_icons=true&theme=dark)  
